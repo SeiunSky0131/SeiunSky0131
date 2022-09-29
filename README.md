@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Haoquan Zhou
 
+- <span>&#128214;</span> I study Information Science <a href = "https://www.github.com/umich">@UMich</a> <a href = "https://www.github.com/umsi">@UMSI</a>
 - 🌱 I’m currently learning Django, HTML5 and CSS
 - 📫 How to reach me: By *Pigeon Post*
 - 😄 Pronouns: He/Him/His
