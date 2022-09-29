@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Haoquan Zhou
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning Django, HTML5 and CSS
 - 📫 How to reach me: By *Pigeon Post*
 - 😄 Pronouns: He/Him/His
