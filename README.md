@@ -10,5 +10,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaikiShuttle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```text
+Python   1 hr            █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
