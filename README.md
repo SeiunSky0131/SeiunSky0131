@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Django, HTML5, JavaScript and CSS
 - 📫 How to reach me: By Gmail at "haoquanz1660@gmail.com"
 - ⚡ Fun fact: Favorite Yaku in Richii Mahjong <span>&#126981;</span> is *Suuanko Tanki* <span>&#126983;</span><span>&#126983;</span><span>&#126983;</span><span>&#126986;</span><span>&#126986;</span><span>&#126986;</span><span>&#126988;</span><span>&#126988;</span><span>&#126988;</span><span>&#126991;</span><span>&#127002;</span><span>&#127002;</span><span>&#127002;</span> <span>&#126991;</span>
+- Personal website: <a href = "https://taikishuttle.github.io">Haoquan Zhou</a>
 
 [![TaikiShuttle's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaikiShuttle)](https://github.com/anuraghazra/github-readme-stats)
 
