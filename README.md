@@ -2,7 +2,7 @@
 
 - <span>&#128214;</span> I study Information Science <a href = "https://www.github.com/umich">@UMich</a> <a href = "https://www.github.com/umsi">@UMSI</a>
 - 🌱 I’m currently learning Django, HTML5, JavaScript and CSS
-- 📫 How to reach me: By zhouhaoquan1660@gmail.com
+- 📫 How to reach me: By haoquanz1660@gmail.com
 - ⚡ Fun fact: Favorite Yaku in Richii Mahjong <span>&#126981;</span> is *Suuanko Tanki* <span>&#126983;</span><span>&#126983;</span><span>&#126983;</span><span>&#126986;</span><span>&#126986;</span><span>&#126986;</span><span>&#126988;</span><span>&#126988;</span><span>&#126988;</span><span>&#126991;</span><span>&#127002;</span><span>&#127002;</span><span>&#127002;</span> <span>&#126991;</span>
 - <span>&#128187;</span>Personal website: 
 
