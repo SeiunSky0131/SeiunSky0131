@@ -25,8 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   4 hrs 30 mins   █████████████████████████   99.97 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python   2 hrs 49 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
