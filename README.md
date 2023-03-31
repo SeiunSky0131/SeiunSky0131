@@ -6,7 +6,8 @@
 - ⚡ Fun fact: Favorite Yaku in Richii Mahjong <span>&#126981;</span> is *Suuanko Tanki* <span>&#126983;</span><span>&#126983;</span><span>&#126983;</span><span>&#126986;</span><span>&#126986;</span><span>&#126986;</span><span>&#126988;</span><span>&#126988;</span><span>&#126988;</span><span>&#126991;</span><span>&#127002;</span><span>&#127002;</span><span>&#127002;</span> <span>&#126991;</span>
 - <span>&#128187;</span> Portfolio: <a href="https://taikishuttle.github.io">here</a>
 
-![TaikiShuttle's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaikiShuttle&show_icons=true&theme=gradient)
+![TaikiShuttle's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaikiShuttle&show_icons=true&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaikiShuttle)](https://github.com/anuraghazra/github-readme-stats)
 
 <div > 
