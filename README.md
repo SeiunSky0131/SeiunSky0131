@@ -32,3 +32,5 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
