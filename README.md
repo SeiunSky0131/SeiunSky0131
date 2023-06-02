@@ -36,7 +36,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Python   23 mins         █████████████████████████   100.00 %
 ```
 
