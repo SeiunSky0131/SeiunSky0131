@@ -3,7 +3,7 @@
 - <span>&#128214;</span> I study Information Science <a href = "https://www.github.com/umich">@UMich</a> <a href = "https://www.github.com/umsi">@UMSI</a>
 - 🌱 I’m currently learning Time Series Analysis
 - 📫 How to reach me: By haoquanz1660@gmail.com
-- <span>&#128187;</span> Portfolio: <a href="https://taikishuttle.github.io">here</a>
+- <span>&#128187;</span> Portfolio: <a href="https://seiunsky0131.github.io">here</a>
 
 ![TaikiShuttle's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaikiShuttle&show_icons=true&theme=Gradient)
 
