@@ -5,9 +5,9 @@
 - 📫 How to reach me: By haoquanz1660@gmail.com
 - <span>&#128187;</span> Portfolio: <a href="https://seiunsky0131.github.io">here</a>
 
-![TaikiShuttle's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaikiShuttle&show_icons=true&theme=Gradient)
+![SeiunSky0131's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeiunSky0131&show_icons=true&theme=Gradient)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaikiShuttle)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeiunSky0131)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -41,5 +41,5 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-![](https://komarev.com/ghpvc/?username=TaikiShuttle)
+![](https://komarev.com/ghpvc/?username=SeiunSky0131)
 
