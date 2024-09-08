@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Haoquan Zhou
 
-- <span>&#128214;</span> I study Information Science <a href = "https://www.github.com/umich">@UMich</a> <a href = "https://www.github.com/umsi">@UMSI</a>
-- 🌱 I’m currently learning Time Series Analysis
 - 📫 How to reach me: By haoquanz1660@gmail.com
 - <span>&#128187;</span> Portfolio: <a href="https://seiunsky0131.github.io">here</a>
 
