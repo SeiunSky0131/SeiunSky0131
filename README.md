@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Haoquan Zhou
 
 - 📫 How to reach me: By haoquanz1660@gmail.com
-- <span>&#128187;</span> Portfolio: <a href="https://seiunsky0131.github.io">here</a>
 
 ![SeiunSky0131's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeiunSky0131&show_icons=true&theme=Gradient)
 
